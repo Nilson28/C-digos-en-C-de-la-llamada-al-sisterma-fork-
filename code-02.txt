@@ -1,2 +1,1 @@
-Soy el padre, valor de x: 102
-Soy el hijo, valor de x: 101
+
